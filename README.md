@@ -36,6 +36,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-23396e?style=for-the-badge&logo=Docker&logoColor=c4c0bca&?logoWidth=40)
 ![Windows](https://img.shields.io/badge/-Windows-23396e?style=for-the-badge&logo=Windows&logoColor=c4c0bca&?logoWidth=40)
 ![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/Kelbrus/Kelbrus/blob/output/github-contribution-grid-snake.gif)
