@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elbrus</h1>
-<h3 align="center">A passionate junior backend developer from Moscow, Russia 👨‍💻</h3><br>
+<h3 align="center">A passionate junior backend developer from Moscow, Russia 👨‍💻</h3>
 
 - 🔭 I’m currently working on [GitHub](https://github.com/Kelbrus)
 
