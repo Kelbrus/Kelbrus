@@ -5,7 +5,11 @@
 
 - 🌱 Now I'm studying at **Yandex_Practicum** to **Python_Developer+**
 
-- 📫 How to reach me **elb.kar@yandex.ru**
+- 👨‍💻 Alma Mater: **Gubkin Russian State University of Oil and Gas**
+
+- 📝 Academic degree: **Master of Engineering and Technology**
+
+- 📫 Email: **elb.kar@yandex.ru**
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-23396e?style=for-the-badge&logo=python&logoColor=ffea00&?logoWidth=40)
