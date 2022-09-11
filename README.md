@@ -11,7 +11,7 @@
 
 - 📫 Email: **elb.kar@yandex.ru**
 
-<h2 align="center"> 🚀 Languages and Tools  🚀
+<h2 align="center"> 🚀 Languages and Tools  🚀 <br>
 
 ![Python](https://img.shields.io/badge/-Python-23396e?style=for-the-badge&logo=python&logoColor=ffea00&?logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23396e?style=for-the-badge&logo=JavaScript&logoColor=eeff00&?logoWidth=40)
