@@ -12,7 +12,7 @@
 - 📫 Email: **elb.kar@yandex.ru**
 
 <h2 align="center"> 🚀 Languages and Tools  🚀 </h2>
-<h2 align="center">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-23396e?style=for-the-badge&logo=python&logoColor=ffea00&?logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23396e?style=for-the-badge&logo=JavaScript&logoColor=eeff00&?logoWidth=40)
@@ -37,7 +37,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-23396e?style=for-the-badge&logo=Selenium&logoColor=c4c0bca&?logoWidth=40)
 ![Docker](https://img.shields.io/badge/-Docker-23396e?style=for-the-badge&logo=Docker&logoColor=c4c0bca&?logoWidth=40)
 ![Windows](https://img.shields.io/badge/-Windows-23396e?style=for-the-badge&logo=Windows&logoColor=c4c0bca&?logoWidth=40)
-![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)<h2>
+![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)</div>
 
 <h2 align="center"> 📈 GitHub Stats 📉 </h2>
 <div>
