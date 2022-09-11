@@ -39,6 +39,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-23396e?style=for-the-badge&logo=Windows&logoColor=c4c0bca&?logoWidth=40)
 ![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)<h2>
 
+<h2 align="center"> 📈 GitHub Stats 📉 </h2>
 <div>
   <a href="https://github.com/Kelbrus">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kelbrus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
