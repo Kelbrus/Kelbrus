@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elbrus</h1>
-<h3 align="center">A passionate junior backend developer from Moscow, Russia</h3>
+<h3 align="center">A passionate junior backend developer from Moscow, Russia 👨‍💻</h3><br>
 
 - 🔭 I’m currently working on [GitHub](https://github.com/Kelbrus)
 
@@ -11,7 +11,8 @@
 
 - 📫 Email: **elb.kar@yandex.ru**
 
-### Languages and Tools
+<h2 align="center"> 🚀 Languages and Tools  🚀
+
 ![Python](https://img.shields.io/badge/-Python-23396e?style=for-the-badge&logo=python&logoColor=ffea00&?logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23396e?style=for-the-badge&logo=JavaScript&logoColor=eeff00&?logoWidth=40)
 ![HTML](https://img.shields.io/badge/-HTML5-23396e?style=for-the-badge&logo=html5&logoColor=ff0000&?logoWidth=40)
@@ -35,7 +36,4 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-23396e?style=for-the-badge&logo=Selenium&logoColor=c4c0bca&?logoWidth=40)
 ![Docker](https://img.shields.io/badge/-Docker-23396e?style=for-the-badge&logo=Docker&logoColor=c4c0bca&?logoWidth=40)
 ![Windows](https://img.shields.io/badge/-Windows-23396e?style=for-the-badge&logo=Windows&logoColor=c4c0bca&?logoWidth=40)
-![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/Kelbrus/Kelbrus/blob/output/github-contribution-grid-snake.gif)
+![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)</h2><br>
