@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-23396e?style=for-the-badge&logo=CSS3&logoColor=80acff&?logoWidth=40)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-23396e?style=for-the-badge&logo=Bootstrap&logoColor=d000ff&?logoWidth=40)
 ![QT](https://img.shields.io/badge/-Qt-23396e?style=for-the-badge&logo=Qt&logoColor=00ff37&?logoWidth=40)
-![PUG](https://img.shields.io/badge/-pug-23396e?style=for-the-badge&logo=Pug&logoColor=594605&?logoWidth=40)
+![PUG](https://img.shields.io/badge/-pug-23396e?style=for-the-badge&logo=Pug&logoColor=c4c0bca&?logoWidth=40)
 ![Pandas](https://img.shields.io/badge/-Pandas-23396e?style=for-the-badge&logo=pandas&logoColor=00ff2a&?logoWidth=40)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-23396e?style=for-the-badge&logo=Pytorch&logoColor=ff7b00a&?logoWidth=40)
 ![Django](https://img.shields.io/badge/-Django-23396e?style=for-the-badge&logo=django&logoColor=00ff2a&?logoWidth=40)
@@ -37,7 +37,8 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-23396e?style=for-the-badge&logo=Selenium&logoColor=c4c0bca&?logoWidth=40)
 ![Docker](https://img.shields.io/badge/-Docker-23396e?style=for-the-badge&logo=Docker&logoColor=c4c0bca&?logoWidth=40)
 ![Windows](https://img.shields.io/badge/-Windows-23396e?style=for-the-badge&logo=Windows&logoColor=c4c0bca&?logoWidth=40)
-![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)</div><br>
+![git](https://img.shields.io/badge/-git-23396e?style=for-the-badge&logo=git&logoColor=c4c0bca&?logoWidth=40)
+![atlassian](https://img.shields.io/badge/-atlassian-23396e?style=for-the-badge&logo=atlassian&logoColor=c4c0bca&?logoWidth=40)</div><br>
 
 <h2 align="center"> 📈 GitHub Stats 📉 </h2>
 <div>
