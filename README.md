@@ -11,6 +11,8 @@
 
 - 📫 Email: **elb.kar@yandex.ru**
 
+- 🎓 [Diplomas and certificates]()
+
 <h2 align="center"> 🚀 Languages and Tools  🚀 </h2>
 <div align="center">
 
