@@ -11,7 +11,7 @@
 
 - 📫 Email: **elb.kar@yandex.ru**
 
-- 🎓 [Diplomas and certificates]()
+- 🎓 [Diplomas and certificates](https://github.com/Kelbrus/Diplomas_n_certificates)
 
 <h2 align="center"> 🚀 Languages and Tools  🚀 </h2>
 <div align="center">
